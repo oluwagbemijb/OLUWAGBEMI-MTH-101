@@ -1,0 +1,6 @@
+{
+  "name": "MTH 101: Elementary Mathematics I",
+  "description": "Interactive lecture notes, mathematical simulations, worked examples, and tutorial exercises for MTH 101 (Algebra and Trigonometry).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
